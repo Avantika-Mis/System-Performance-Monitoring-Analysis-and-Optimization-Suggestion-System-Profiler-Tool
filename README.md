@@ -1,0 +1,2 @@
+# System-Performance-Monitoring-Analysis-and-Optimization-Suggestion-System-Profiler-Tool
+A cross-platform system profiler tool built with Python, Flask, and Chart.js. It monitors CPU, memory, disk, and other system resources, detects anomalies using Isolation Forest, and recommends optimizations via KMeans. Features include real-time monitoring, scheduled jobs, alerts, process termination, and exportable reports for offline analysis.
